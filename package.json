@@ -1,0 +1,9 @@
+{
+  "name": "hartwig-soehne",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Website für den Meisterbetrieb Hartwig & Söhne",
+  "scripts": {
+    "start": "npx --yes serve . -l 3000"
+  }
+}
